@@ -51,3 +51,6 @@ po/*~
 rsconnect/
 
 .DS_Store
+
+# mustashe cache directory
+/.mustashe/
