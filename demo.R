@@ -30,7 +30,7 @@ pacman::p_load(mustashe)
 cache_key <- Sys.Date()
 
 # for all loaded data, cache for one day using mustashe
-# this means subsequent runs on the saem day will be faster as
+# this means subsequent runs on the same day will be faster as
 # data is retrieved from cache after the first run
 # assumes data does not change very often
 
